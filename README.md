@@ -33,4 +33,4 @@ npm unpublish local-example --force
 ## 安装发布的本地私有库
 npm i local-example
 
-!(http://upload-images.jianshu.io/upload_images/2445565-f0bd99c4ee127626.png?imageMogr2/auto-orient/strip%7CimageView2/2/w/1240 "")
+![Sinopia](http://upload-images.jianshu.io/upload_images/2445565-f0bd99c4ee127626.png?imageMogr2/auto-orient/strip%7CimageView2/2/w/1240 "")
